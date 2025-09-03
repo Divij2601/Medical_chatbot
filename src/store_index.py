@@ -3,7 +3,7 @@ import os
 from src.helper import load_pdf_files, filter_to_minimal_documents, text_split, download_embeddings
 from pinecone import Pinecone
 from pinecone import ServerlessSpec
-from langchain_pinecone import PineconeVectorStore
+from langchain_pinecone import PineconeVectorStoref
 load_dotenv()
 
 PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
