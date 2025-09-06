@@ -4,9 +4,8 @@ end to end medical chatbot using langchain, RAG, Gemini and Flask
 
 # How to run?
 ### STEPS:
-Clone the repository
 
-```bash
+Clone the repository
 
 
 ### STEP 01- Create a conda environment after opening the repository
